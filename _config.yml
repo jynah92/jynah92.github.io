@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            NJY's Blog
-tagline:          'Programming / Musics / Videos'
-description:      'Programming / Musics / Videos'
+tagline:          'Programming / Musics / Videos / ETC'
+description:      'Posting about programming, musics, videos and others'
 url:              https://jynah92.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +15,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'NJY'
+  url:            https://www.instagram.com/njy_ig
 
 paginate:         5
 # paginate_path:    '/page:num'
