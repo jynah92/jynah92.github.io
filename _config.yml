@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            NJY's Blog
-tagline:          'Programming / Musics / Videos / ETC'
+#tagline:          'Programming / Musics / Videos / ETC'
 description:      'Posting about programming, musics, videos and others'
 url:              https://jynah92.github.io
 baseurl:          ''
