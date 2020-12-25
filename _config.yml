@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            NJY's Blog
 tagline:          'Programming / Musics / Videos'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Programming / Musics / Videos'
 url:              https://jynah92.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
